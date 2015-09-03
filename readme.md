@@ -1,3 +1,3 @@
-## Presentation Slides for the first plenary at ICPG 2015 
+## Presentation Slides for the BSPS Conference
 
 ### created using reveal.js and d3.js
